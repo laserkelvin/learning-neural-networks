@@ -28,6 +28,16 @@ of each notebook:
   - Dive into _why_ we should use neural networks and deep learning 
   - Low-level implementation of the core mechanics of neural networks, the perceptron, using NumPy
   - Effect of non-linearities on our model output Teaching a neural network
+  - How neural networks learn; cost and autograd with Jax
+
+2. Primer On Auxiliary Functions
+  - Activation Functions
+  - Loss Functions
+  - Optimizers
+
+3. PyTorch Abstraction
+  - Good practices in PyTorch
+  - GPU Models
 
 ## Acknowledgements
 
