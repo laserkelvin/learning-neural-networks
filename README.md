@@ -25,8 +25,8 @@ In terms of the natural progression of things, this is the general gist/summary
 of each notebook:
 
 1. Fundamentals
-  - Dive into _why_ we should use neural networks and deep learning Low-level
-  - implementation of the core mechanics of neural networks, the perceptron
+  - Dive into _why_ we should use neural networks and deep learning 
+  - Low-level implementation of the core mechanics of neural networks, the perceptron, using NumPy
   - Effect of non-linearities on our model output Teaching a neural network
 
 ## Acknowledgements
