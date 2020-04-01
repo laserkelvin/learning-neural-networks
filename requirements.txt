@@ -3,3 +3,4 @@ jax
 jaxlib
 matplotlib
 scikit-learn
+mplcyperpunk
